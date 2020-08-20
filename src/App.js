@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Ide from './Container/Ide';
+import Ide from './Container/Ide/Ide';
 import './App.css';
 
 
